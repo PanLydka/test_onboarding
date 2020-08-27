@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[3],{fz5n:function(e,t,n){"use strict";n.r(t);var a=n("q1tI"),l=n.n(a);t.default=function(e){return l.a.createElement("div",{className:"step--container"},l.a.createElement("h1",null," Numer telefonu komórkowego "),l.a.createElement("h2",null," wyślemy na niego kod weryfikujący podane dane"),l.a.createElement("p",null," "),l.a.createElement("input",{type:"text"}),l.a.createElement("a",{href:"https://inputmodes.com/"}," test "))}}}]);
+//# sourceMappingURL=component---src-pages-step-number-tsx-4972fa3abf6ff72d00d1.js.map
