@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[2],{MPK8:function(e,t,a){"use strict";a.r(t);var n=a("q1tI"),c=a.n(n);t.default=function(){return Object(n.useEffect)((function(){}),[]),c.a.createElement("div",{className:"step--container"},c.a.createElement("a",{href:"https://panlydka.github.io/test_repo_public/"}," github "),c.a.createElement("a",{href:"https://webrtc.github.io/samples/"}," webrtc "),c.a.createElement("video",null))}}}]);
+//# sourceMappingURL=component---src-pages-verification-js-b952940ea7ac33fb76c4.js.map
