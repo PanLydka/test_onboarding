@@ -1,5 +1,5 @@
 import React from "react";
-
+import { Link } from "gatsby"
 
 
 
@@ -12,7 +12,7 @@ const StepNumber = () => {
             <h2> wyślemy na niego kod weryfikujący podane dane</h2>
             <input className="input last-element" type="text" inputMode="tel" />
 
-            <a href="/verification"> weryfikacja </a>
+            <Link to="/verification"> weryfikacja </Link>
         </div>
     )
 }
