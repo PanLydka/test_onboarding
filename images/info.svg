@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="21.94" height="21.94" viewBox="0 0 21.94 21.94">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="21.94" height="21.94" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="info" clip-path="url(#clip-path)">
+    <g id="Group_746" data-name="Group 746">
+      <path id="Path_994" data-name="Path 994" d="M10.97,0A10.97,10.97,0,1,0,21.94,10.97,10.982,10.982,0,0,0,10.97,0Zm0,20.59a9.62,9.62,0,1,1,9.62-9.62A9.631,9.631,0,0,1,10.97,20.59Z"/>
+      <circle id="Ellipse_281" data-name="Ellipse 281" cx="0.82" cy="0.82" r="0.82" transform="translate(9.938 5.638)"/>
+      <path id="Path_995" data-name="Path 995" d="M30.627,28.342a.491.491,0,0,0-.49.49V33a.49.49,0,1,0,.981,0V28.832A.49.49,0,0,0,30.627,28.342Z" transform="translate(-19.908 -17.526)"/>
+    </g>
+  </g>
+</svg>
